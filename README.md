@@ -1,2 +1,7 @@
-# BSIT-BA
-Repository for BA students of Laguna University
+Contributor Update
+
+Contributor Name: 
+
+Feature Added:
+- Digital Library Dashboard
+
